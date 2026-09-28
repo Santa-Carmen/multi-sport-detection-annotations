@@ -171,10 +171,6 @@ Run `python validate.py` to get the current numbers.
 | `ball` boxes | 22 |
 | `ignore` regions | 13 |
 
-## Data source and license
-
-_TBD: describe where the images come from and under which license they can be used and redistributed._
-
 ## Storage tip
 
 If the repository is hosted on GitHub, consider [Git LFS](https://git-lfs.com/) or external storage for `images/`.
