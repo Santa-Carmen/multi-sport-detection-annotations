@@ -170,11 +170,3 @@ Run `python validate.py` to get the current numbers.
 | `player` boxes | 85 |
 | `ball` boxes | 22 |
 | `ignore` regions | 13 |
-
-## Storage tip
-
-If the repository is hosted on GitHub, consider [Git LFS](https://git-lfs.com/) or external storage for `images/`.
-
-## Versioning
-
-The guidelines are versioned (see the changelog in `annotation_guidelines.md`). Every rule change increases the version number.
